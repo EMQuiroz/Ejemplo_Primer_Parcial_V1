@@ -1,0 +1,54 @@
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe.config
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.pdb
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.dll
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.pdb
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csprojAssemblyReference.cache
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.FormPrincipal.resources
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.Properties.Resources.resources
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.GenerateResource.cache
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CopyComplete
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.exe
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.pdb
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe.config
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.pdb
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.dll
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.pdb
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csprojAssemblyReference.cache
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.FormPrincipal.resources
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.Properties.Resources.resources
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.GenerateResource.cache
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CoreCompileInputs.cache
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CopyComplete
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.exe
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe.config
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.dll
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.AssemblyReference.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.SuggestedBindingRedirects.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.FormPrincipal.resources
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.Properties.Resources.resources
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.GenerateResource.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CoreCompileInputs.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CopyComplete
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.exe
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe.config
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.exe
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\bin\Debug\Primer_Parcial.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.dll
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\bin\Debug\Entidades.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.AssemblyReference.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.SuggestedBindingRedirects.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.FormPrincipal.resources
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.Properties.Resources.resources
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.GenerateResource.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CoreCompileInputs.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.csproj.CopyComplete
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.exe
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Primer_Parcial\obj\Debug\Primer_Parcial.pdb

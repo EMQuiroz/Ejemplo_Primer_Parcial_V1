@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Personaje">
+    <Position X="5.25" Y="1.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACAQAAAAAAAAAAAAAAAAAAAAAAQEiA=</HashCode>
+      <FileName>Personaje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Enemigo">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAiAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Enemigo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Avenger">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Avenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Marvel">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAEAAAA=</HashCode>
+      <FileName>Marvel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.EEquipamiento">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAYAAQAAAAAg=</HashCode>
+      <FileName>EEquipamiento.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.EHabilidades">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAAAAAAAAIAAABAAAIAYAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>EHabilidades.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

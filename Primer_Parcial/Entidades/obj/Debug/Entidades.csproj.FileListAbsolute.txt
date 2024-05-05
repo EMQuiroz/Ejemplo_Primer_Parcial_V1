@@ -1,0 +1,23 @@
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Familia Quiroz\Desktop\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.pdb
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\bin\Debug\Entidades.dll
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\bin\Debug\Entidades.pdb
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.dll
+E:\facultad\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\bin\Debug\Entidades.dll
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\bin\Debug\Entidades.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.dll
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\PPI_2C_EstebanMarceloQuiroz\Primer_Parcial\Entidades\obj\Debug\Entidades.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Entidades\bin\Debug\Entidades.dll
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Entidades\bin\Debug\Entidades.pdb
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Entidades\obj\Debug\Entidades.dll
+D:\facultad\MiCursada\PrograYLaboII\2-programacion II\parciales 2021\Ejemplo_Primer_Parcial_V1\Primer_Parcial\Entidades\obj\Debug\Entidades.pdb
